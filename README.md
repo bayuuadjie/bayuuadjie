@@ -12,8 +12,6 @@
 
 <div align="center">
 
-🌱 **Currently Learning:** PHP & Laravel
-
 </div>
 
 <hr/>
