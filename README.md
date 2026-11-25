@@ -30,12 +30,22 @@ peran     : Website Developer / Software Developer
 
 <!-- ======================= TECH STACK ======================= -->
 ## 🛠️ Tech Stack
-
+ 
 <div align="center">
-
-<img src="assets/stack.svg" width="100%" alt="tech stack" />
-
+**Bahasa Pemrograman**
+ 
+<img src="https://skillicons.dev/icons?i=js,ts,py,php,kotlin,dart&theme=dark" alt="languages" />
+**Frontend & Mobile**
+ 
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,bootstrap,flutter&theme=dark" alt="frontend" />
+**Backend & Database**
+ 
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,mongodb&theme=dark" alt="backend" />
+**Tools & Lainnya**
+ 
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,vercel&theme=dark" alt="tools" />
 </div>
+
 
 <br/>
 
