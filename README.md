@@ -101,7 +101,7 @@ peran     : Website Developer / Software Developer
 <a href="https://linkedin.com/in/bayu-adjie-541bb444a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/m.bayuadjiee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=EC4899&center=true&vCenter=true&width=500&lines=%22Code+is+poetry.%22;%22Stay+curious%2C+keep+building.%22" alt="quote" />
 
