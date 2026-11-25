@@ -4,7 +4,7 @@
 <img src="assets/header.svg" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my=GitHub+Profile+%F0%9F%91%8B;Suka+ngoding+dan+membangun+hal+baru+%F0%9F%9A%80;Belajar+setiap+hari%2C+berkembang+tiap+saat+%F0%9F%93%88;Let's+Collaborate!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Suka+ngoding+dan+membangun+hal+baru+%F0%9F%9A%80;Belajar+setiap+hari%2C+berkembang+tiap+saat+%F0%9F%93%88;Let's+Collaborate!+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
