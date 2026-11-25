@@ -103,7 +103,7 @@ peran     : Website Developer / Software Developer
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=EC4899&center=true&vCenter=true&width=500&lines=%22Code+is+poetry.%22;%22Stay+curious%2C+keep+building.%22" alt="quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=EC4899&center=true&vCenter=true&width=500&lines=%22Code+to+make+things+easier%22;%22Stay+curious%2C+keep+building.%22" alt="quote" />
 
 </div>
 
