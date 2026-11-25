@@ -39,7 +39,7 @@
 <circle cx="174" cy="36" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.5s" begin="0.7s" repeatCount="indefinite"/></circle>
 <circle cx="258" cy="18" r="2.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.5s" begin="0.8s" repeatCount="indefinite"/></circle>
 <circle cx="24" cy="52" r="2.5" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3s" begin="1.8s" repeatCount="indefinite"/></circle>
-<text x="500" y="120" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="60" font-weight="800" fill="url(#txt)" letter-spacing="2">Bayu Adjei
+<text x="500" y="120" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="60" font-weight="800" fill="url(#txt)" letter-spacing="2">Bayu Adjie
 <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/></text>
 <text x="500" y="160" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#c4b5fd" letter-spacing="1">Developer  •  Editor
 <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin=".5s" fill="freeze"/></text>
