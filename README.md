@@ -34,16 +34,16 @@ peran     : Website Developer / Software Developer
 <div align="center">
 
 <h4>Bahasa Pemrograman</h4>
-<img src="https://skillicons.dev/icons?i=js,ts,py,php,java,kotlin,dart,c,cpp&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,php,kotlin,dart&theme=dark" alt="languages" />
 
 <h4>Frontend &amp; Mobile</h4>
-<img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,bootstrap,flutter,androidstudio&theme=dark" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,bootstrap,flutter&theme=dark" alt="frontend" />
 
 <h4>Backend &amp; Database</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,mysql,postgres,mongodb,firebase&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,mongodb&theme=dark" alt="backend" />
 
 <h4>Tools &amp; Lainnya</h4>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,vercel&theme=dark" alt="tools" />
 
 </div>
 
