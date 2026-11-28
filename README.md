@@ -62,10 +62,6 @@ peran     : Website Developer / Software Developer
 
 <img src="https://streak-stats.demolab.com/?user=bayuuadjie&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bayuuadjie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
-
 </div>
 
 <br/>
